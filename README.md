@@ -69,6 +69,17 @@ An **ablation study** is conducted on the autoencoder to quantify the contributi
 - **Clustering + Mahalanobis** improves over simple statistical baselines but remains limited.
 - Different methods detect **different subsets of outliers**, reflecting complementary definitions of abnormality.
 
+---
+
+## Project Structure
+.
+├── DATA/
+│   └── transactions_ecommerce.csv
+├── README.md
+└── fraud_detection_anomaly_detection.ipynb
+
+---
+
 ## Technologies Used
 
 - Python
