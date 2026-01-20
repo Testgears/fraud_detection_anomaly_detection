@@ -70,8 +70,9 @@ An **ablation study** is conducted on the autoencoder to quantify the contributi
 - Different methods detect **different subsets of outliers**, reflecting complementary definitions of abnormality.
 
 ---
-
+``` markdown
 ## Project Structure
+``` text
 .
 ├── DATA/
 │   └── transactions_ecommerce.csv
