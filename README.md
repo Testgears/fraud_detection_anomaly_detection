@@ -74,7 +74,6 @@ An **ablation study** is conducted on the autoencoder to quantify the contributi
 ## Project Structure
 
 ``` text
-.
 ├── DATA/
 │   └── transactions_ecommerce.csv
 ├── README.md
